@@ -18,7 +18,7 @@
 ## Testing
 1. Test multiple **asset subscriptions and redemptions** to ensure the ledger accurately reflects ownership changes.
 2. Test **edge cases**, such as:
-   * Subscribing to more asset units than available.
+   - Subscribing to more asset units than available.
    - Redeeming more asset units than the investor holds.
    - Checking the portfolio of a non-existent investor.
 4. Listen to events in client application
